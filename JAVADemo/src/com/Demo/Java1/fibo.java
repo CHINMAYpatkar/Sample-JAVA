@@ -2,7 +2,7 @@ package com.Demo.Java1;
 
 public class fibo {
 	
-	    static void printFibonacciNumbers(int n) {
+	   public static void printFibonacciNumbers(int n) {
 	        long f1 = 0, f2 = 1;
 
 	        if (n < 1)
