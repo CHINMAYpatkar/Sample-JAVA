@@ -15,6 +15,7 @@ public class even {
 	                }
 	            } else {
 	                System.out.println("Please enter a valid positive number.");
+	                System.out.println("Please enter a valid positive number.");
 	            }
 	        } else {
 	            System.out.println("Invalid input. Please enter a numeric value.");
